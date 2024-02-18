@@ -1,4 +1,4 @@
-# PRAKTIKUM 1
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="PRAKTIKUM 3"></a>Praktikum 2</h1>
 
 ## 1. Menjalankan Apache dan MySQL di XAMPP
    
