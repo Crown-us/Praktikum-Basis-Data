@@ -10,6 +10,8 @@
 
 - [Praktikum 4](https://github.com/Crown-us/Praktikum-Basis-Data/blob/main/Praktikum%20Pertemuan%201/Praktikum%204.md)
 
+## Pertemuan Kedua 
+
 
 ```
 # Kevin Dwi Wijaya
