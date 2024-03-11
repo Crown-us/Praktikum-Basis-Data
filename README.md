@@ -18,6 +18,9 @@
 >
 > [Praktikum 3](https://github.com/Crown-us/Praktikum-Basis-Data/blob/main/Praktikum%20Pertemuan%202/Praktikum%203.md)
 
+## Pertemuan Ketiga 
+> [Tugas 1](https://github.com/Crown-us/Praktikum-Basis-Data/blob/main/Praktikum%20Pertemuan%203/Tugas%201.md)
+
 
 
 
@@ -25,6 +28,6 @@
   
 ```
 # Kevin Dwi Wijaya
-# 1A / 13
+# 1A / 12
 ```
 
