@@ -21,6 +21,11 @@
 ## Pertemuan Ketiga 
 > [Tugas 1](https://github.com/Crown-us/Praktikum-Basis-Data/blob/main/Praktikum%20Pertemuan%203/Tugas%201.md)
 
+## Pertemuan Keempat
+> [Tugas 1](https://github.com/Crown-us/Praktikum-Basis-Data/blob/main/Praktikum%20Pertemuan%204/Tugas%201.md)
+
+## Pertemuan Kelima
+> [Tugas 1](https://github.com/Crown-us/Praktikum-Basis-Data/blob/main/Praktikum%20Pertemuan%205/Tugas%201.md)
 
 
 
