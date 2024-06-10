@@ -23,3 +23,6 @@
 
 # Another PICS
 
+![image](https://github.com/Crown-us/Praktikum-Basis-Data/assets/55532281/083e22ce-f7d7-49e5-b8d7-1c4dcebb6b1c)
+![image](https://github.com/Crown-us/Praktikum-Basis-Data/assets/55532281/2d83513c-2921-4560-b1d0-3f19de7e29d3)
+
